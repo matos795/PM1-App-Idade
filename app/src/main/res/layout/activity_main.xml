@@ -112,7 +112,7 @@
             android:textAlignment="center" />
 
         <TextView
-            android:id="@+id/tvHoras"
+            android:id="@+id/TextView7"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Idade em Horas"
@@ -120,7 +120,7 @@
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/textView11"
+            android:id="@+id/tvHoras"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center" />
